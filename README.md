@@ -2,7 +2,7 @@
 Bot Downloader From Google Drive to Your local PC/Laptop/Device
 
 ### How To Use
-1. Untuk Download file gunakan format: /download <id> <NamaFile> <episode> Untuk Mendownload <br>
+1. Untuk Download file gunakan format: /download "id" "NamaFile" "episode" Untuk Mendownload (Jika Tidak mengisi Bagian Episode Program Tetap Akan Menyimpan File) <br>
 Ex : /download 1lzNHnvxxxLsyJXXb6eWZLThvDaYkKWm8 NamaFile 1
 ```
 Contoh URL :
