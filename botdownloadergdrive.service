@@ -1,0 +1,13 @@
+[Unit]
+Description=Bot Telegram Downloader Form GDrive Service
+After=network.target
+
+[Service]
+ExecStart=/path/save/bot.sh
+Restart=on-failure
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=bot
+
+[Install]
+WantedBy=multi-user.target
