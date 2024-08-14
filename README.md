@@ -1,7 +1,7 @@
 # BotGDriveDownloader
 Bot Downloader From Google Drive to Your local PC/Laptop/Device
 
-How To Use
+### How To Use
 1. Untuk Download file gunakan format: /download <id> <NamaFile> <episode> Untuk Mendownload <br>
 Ex : /download 1lzNHnvxxxLsyJXXb6eWZLThvDaYkKWm8 NamaFile 1
 ```
@@ -14,7 +14,7 @@ id di ambil dari id=1lzNHnvxxxLsyJXXb6eWZLThvDaYkKWm8
 3. Untuk Menghapus File yang ada gunakan /delete <nomor_file> untuk mendelete file. (Sebelum Menghapus File Harap Melihat List file terlebih dahulu untuk mengetahui nomor file)
 
 
-How to deploy
+### How to deploy
 
 1. exec command chmod +x bot.sh untuk mengubah permission script
 2. Update Variable Token dan Chat_ID 
